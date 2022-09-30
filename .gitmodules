@@ -1,4 +1,4 @@
-[submodule "karaoke"]
-	path = karaoke
-	url = https://github.com/KIYO1234/karaoke.git
+[submodule "clone-test-test"]
+	path = clone-test-test
+	url = https://github.com/KIYO1234/clone-test-test.git
 	branch = main
