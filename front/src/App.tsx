@@ -46,6 +46,7 @@ function App() {
       <Button onClick={onClick} />
       <div>親リポジトリ</div>
       <div>子リポジトリ</div>
+      <div>cloneされました</div>
     </>
   );
 }
