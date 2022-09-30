@@ -1,4 +1,0 @@
-[submodule "submodule-test"]
-	path = submodule-test
-	url = https://github.com/KIYO1234/submodule-test.git
-	branch = main
