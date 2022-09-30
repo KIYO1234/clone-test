@@ -1,0 +1,8 @@
+[submodule "karaoke"]
+	path = karaoke
+	url = https://github.com/KIYO1234/karaoke.git
+	branch = main
+[submodule "submodule-test"]
+	path = submodule-test
+	url = https://github.com/KIYO1234/submodule-test.git
+	branch = main
